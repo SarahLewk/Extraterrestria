@@ -1,2 +1,2 @@
-# Extraterrestria
+# Extraterrestrial
 JavaScript and DOM Manipulation
