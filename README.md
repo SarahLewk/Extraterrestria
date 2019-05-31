@@ -3,4 +3,4 @@ JavaScript and DOM Manipulation
 
 https://sarahlewk.github.io/Extraterrestrial/
 
-![webpage screenshot](https://user-images.githubusercontent.com/46179696/58692962-960d9c80-8344-11e9-81b9-51fb3028c548.png)
+![webpage screenshot](https://user-images.githubusercontent.com/46179696/58693517-d0c40480-8345-11e9-96cd-0aa4bcffa279.png)
